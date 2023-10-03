@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    outline: 0;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none
+}
+    
+@import './src/partials/_layout.scss';
+@import './src//partials/_header.scss';
+@import './src//partials/colors.scss'
