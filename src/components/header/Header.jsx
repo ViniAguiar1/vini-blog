@@ -4,7 +4,7 @@ export default function Header(){
     return(
         <>
                   <nav>
-      <div className="container1">
+      <div className="contaizner1">
               <div id="header">
                   Portfólio
               </div>
@@ -32,7 +32,7 @@ export default function Header(){
         <a className="button-contact" href="https://www.instagram.com/viniaguiardev/" target="_blank" data-aos="fade-up-right" data-aos-delay="700">Instagram</a>
         </div>
         <div id="headerImg" data-aos="flip-up" data-aos-delay="600">
-            <img src={viniPhoto2} alt="user picture" />
+            <img src="" alt="user picture" />
         </div>
     </div>
         </>
